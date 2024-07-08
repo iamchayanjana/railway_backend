@@ -11,8 +11,11 @@ Database Integration: Uses MongoDB for data storage and management.
 **Technologies Used** 
 
 Node.js
+
 Express.js
+
 MongoDB
+
 Mongoose
 
 **Installation**
